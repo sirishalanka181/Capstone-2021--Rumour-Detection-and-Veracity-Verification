@@ -7,6 +7,8 @@ python3 /demo codes/demoData.ipynb
 python3 /demo codes/generateDataset.ipynb
 python3 /demo codes/final_demo.ipynb
 
+bert_saved_weights.pt can be downloaded from https://drive.google.com/file/d/1AajakD8iOvJigw29DOS374zEafq2yG4e/view?usp=sharing
+
 BERT model training: 
 python3 BERT-Rumour Detection.ipynb
 
